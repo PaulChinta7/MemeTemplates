@@ -1,0 +1,26 @@
+
+body{
+  display: flex;
+  justify-content: center;
+}
+.TextBox_label{
+  margin-bottom: 10px;
+}
+
+.TextBox_input{
+  margin-bottom: 20px;
+}
+
+
+/* Login Page  */
+
+.Login_container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 300px;
+  background-color: antiquewhite;
+  /* margin: 200px; */
+  padding: 50px;
+  /* height: 50%; */
+}
